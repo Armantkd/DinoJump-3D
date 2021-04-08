@@ -1,7 +1,8 @@
 # The Green Team
 
 (PLEASE READ)
-THe code presented is not the most efficient, it has many global variables making runtime slow. Furthermore it lacked the use of different classes for each object. However, it was coded given a deadline which is why my team decided not to focus on efficiency but on completeing the task. That being said, I am really proud of what my team and I accomplished given a short amount of time, a motion-sensing 3D video game.
+This game was coded given a short deadline which is why my team decided not to focus on efficiency but on completeing the task. That being said, I am really proud of what my team and I accomplished given such little time. Some notes on improving efficiency: It has many global variables making runtime slow. Furthermore, it lacked the use of different classes for each object. All in all, the motion sensing 3D game was successful!
+(Please Read)
 
 
 
