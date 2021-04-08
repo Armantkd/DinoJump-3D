@@ -2,7 +2,7 @@
 
 (PLEASE READ)
 This game was coded given a short deadline which is why my team decided not to focus on efficiency but on completeing the task. That being said, I am really proud of what my team and I accomplished given such little time. Some notes on improving efficiency: It has many global variables making runtime slow. Furthermore, it lacked the use of different classes for each object. All in all, the motion sensing 3D game was successful!
-(Please Read)
+(PLEASE READ)
 
 
 
