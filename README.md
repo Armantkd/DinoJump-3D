@@ -1,8 +1,7 @@
 # The Green Team
 
-(PLEASE READ)
 This game was coded given a short deadline which is why my team and I decided not to focus on efficiency but on completeing the task. That being said, I am really proud of what my team accomplished given such little time. Some notes on improving efficiency: It has many global variables making runtime slow and there is no preprocessing for the image rendering. All in all, the motion sensing 3D game was successful!
-(PLEASE READ)
+
 
 
 
